@@ -336,12 +336,75 @@ Or:
 
 ---
 
+### Slide 29B — Scenario: Parent Refuses Services
+
+A parent stands up, grabs their coat, says **"I'm done. I'm leaving."**
+
+**WHAT NOT TO SAY:**
+- "You can't leave."
+- "If you leave, you're proving you don't care."
+- "Fine, but you'll regret this."
+
+**WHAT TO SAY INSTEAD:**
+
+> "I hear you. This is hard, and I know you didn't ask to be here. Can you tell me what's making you want to leave?"
+
+Or:
+
+> "You're allowed to leave. But I want you to know: when you're ready, we'll be here. No judgment."
+
+**WHY IT WORKS:** Giving them control back reduces resistance. They leave feeling respected — and they often come back.
+
+---
+
+### Slide 29C — Scenario: Parent Comes In intoxicated
+
+A parent arrives at your facility, clearly intoxicated, slurred speech, unsteady on their feet.
+
+**WHAT NOT TO SAY:**
+- "You're drunk. Come back when you're sober."
+- "I can't talk to you like this."
+- "You're wasting my time."
+
+**WHAT TO SAY INSTEAD:**
+
+> "I can see you're going through something right now. Let's just sit together for a minute."
+
+Or:
+
+> "I'm glad you're here. Let's get you some water. We can talk when you're ready."
+
+**WHY IT WORKS:** Meeting them where they are. Intoxication isn't the end — it's often the beginning of a crisis conversation.
+
+---
+
+### Slide 29D — Scenario: Kid Has a Meltdown in the Hallway
+
+A child in your care suddenly starts crying loudly, maybe hitting, screaming, "I want my mom!"
+
+**WHAT NOT TO SAY:**
+- "Stop crying."
+- "You're fine."
+- "Be quiet — you're embarrassing yourself."
+
+**WHAT TO SAY INSTEAD:**
+
+> "You seem really upset. I'm right here. You're safe."
+
+Or (get on their level):
+
+> "I see big feelings are here. That's okay. Let's breathe together. In... out..."
+
+**WHY IT WORKS:** Naming the feeling ("upset," "big feelings") normalizes it. Getting on their level shows you're with them, not against them.
+
+---
+
 ### Slide 30 — The Framework
 
-Here's the simple framework:
+Here's the simple framework for ALL scenarios:
 
-1. **Acknowledge** — "I hear you"
-2. **Validate** — "That makes sense"
+1. **Acknowledge** — "I hear you" / "I see you"
+2. **Validate** — "That makes sense" / "Your feelings are okay"
 3. **Redirect** — "Right now, here's what we have"
 4. **Protect** — "You are safe"
 
